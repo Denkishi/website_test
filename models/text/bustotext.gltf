@@ -16,6 +16,11 @@
 		{
 			"mesh":0,
 			"name":"quello intero fatto bene"
+			"scale":[
+				0.000825,
+				0.000825,
+				0.000825
+				]
 		}
 	],
 	"materials":[
